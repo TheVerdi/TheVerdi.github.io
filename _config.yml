@@ -1,2 +1,3 @@
 name: Tomasz Luczynski, horrible coop
 markdown: theverdi
+permalink: /blog/:year/:month/:day/:title
